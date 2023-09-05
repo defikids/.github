@@ -1,4 +1,3 @@
-## Welcome to DefiKids 👋
 
 ![defikids](https://github.com/defikids/.github/assets/66887028/d401f0c2-213b-4c21-9766-7fd91f07e4c0)
 
