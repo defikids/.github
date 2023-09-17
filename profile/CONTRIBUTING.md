@@ -29,7 +29,7 @@ Please read and follow our Community Code of Conduct .
 If you have any questions, feedback or need help integrating DefiKids into your family
 please ask in our [Discord Community](https://github.com/build-trust/ockam/discussions)
 or send us an email at [support@defikids.io](mailto:support@defikids.io). To leave feedback please email us
-at [hello@defikids.io(mailto:hello@defikids.io)
+at [hello@defikids.io](mailto:hello@defikids.io)
 
 
 ## Report a bug
