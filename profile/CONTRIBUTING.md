@@ -55,7 +55,6 @@ You choose because we think contributing to open source is fun :)
 
 ### Commits
 
-* All commits in a Pull Request must be [signed](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) and Verified by Github.
 * All authors of all commits in a Pull Request must abide by the DefiKids Community [Code of Conduct](CODE_OF_CONDUCT.md).
 * We follow a linear commit history in our git repositories, a pull request cannot contain merge commits. To apply upstream changes to a branch, please rebase it to the base branch.
 
