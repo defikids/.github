@@ -79,7 +79,7 @@ Each commit message consists of a header which includes a type, a scope and a su
     - Please add an implementation scope to a bug fix commit `fix(type):`
     - If a commit affects multiple implementations, please break it into two commits.
   - refactor: code change that neither fixes a bug nor adds a feature
-    - Please add an implementation scope to a refactor commit `refactor(rust):`
+    - Please add an implementation scope to a refactor commit `refactor(typescript):`
     - If a commit affects multiple implementations, please break it into two commits.
   - style: changes that do not affect the meaning of the code (white-space, formatting etc.)
   - test: add missing tests or correct existing tests
