@@ -1,6 +1,6 @@
 # Contributing to DefiKids on GitHub
 
-Thank you for taking time to contribute to [DefiKids](https://github.com/defikids/defikids-dapp).
+Thank you for taking the time to contribute to [DefiKids](https://github.com/defikids/defikids-dapp).
 
 We want you to have a great experience making your first contribution.
 
@@ -9,7 +9,7 @@ documentation or a full feature.
 
 Tell us what you enjoy working on and we would love to help!
 
-If you would like to contribute, but don't know where to start, checkout the
+If you would like to contribute, but don't know where to start, check the
 issues that are labeled
 `good first issue`
 or
@@ -19,14 +19,18 @@ You can contribute to our documentation and code in TypeScript, Solidity, and Ru
 
 If you have any other questions about contributing, please don't hesitate to ask
 
+## Code Style
+
+Please follow the [node style guide](https://github.com/felixge/node-style-guide).
+
 ## Code of Conduct
 
 We strive to keep the DefiKids community an open and welcoming environment.
-Please read and follow our Community Code of Conduct .
+Please read and follow our Community Code of Conduct.
 
 ## Get help
 
-If you have any questions, feedback or need help integrating DefiKids into your family
+If you have any questions, or feedback or need help integrating DefiKids into your family
 please ask in our [Discord Community](https://github.com/build-trust/ockam/discussions)
 or send us an email at [support@defikids.io](mailto:support@defikids.io). To leave feedback please email us
 at [hello@defikids.io](mailto:hello@defikids.io)
@@ -60,7 +64,7 @@ You choose because we think contributing to open source is fun :)
 
 ### Commit Messages
 
-Each commit message consists of a header which includes a type, a scope and a subject:
+Each commit message consists of a header which includes a type, a scope, and a subject:
 
 ```
    <type>(<scope>): <subject>
@@ -72,7 +76,7 @@ Each commit message consists of a header which includes a type, a scope and a su
   - build: changes that affect our build system or external dependencies
   - ci: changes to our continuous integration configuration files
   - feat: a new feature
-    - Please add a implementation scope to a feature commit `feat(typescript):`
+    - Please add an implementation scope to a feature commit `feat(typescript):`
     - If a commit affects multiple implementations, please break it into two commits.
   - fix: a fix to a bug in an existing feature
     - Please add an implementation scope to a bug fix commit `fix(type):`
@@ -80,10 +84,10 @@ Each commit message consists of a header which includes a type, a scope and a su
   - refactor: code change that neither fixes a bug nor adds a feature
     - Please add an implementation scope to a refactor commit `refactor(typescript):`
     - If a commit affects multiple implementations, please break it into two commits.
-  - style: changes that do not affect the meaning of the code (white-space, formatting etc.)
+  - style: changes that do not affect the meaning of the code (white space, formatting, etc.)
   - test: add missing tests or correct existing tests
   - docs: a documentation only change
-  - chore: some minor change that doesn't fall in any of the other types
+  - chore: some minor change that doesn't fall into any of the other types
 
 ## Helpful References
 
